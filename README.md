@@ -8,7 +8,7 @@
 ### Hi everyone | Olá a todos 🐼🖤
 
 🇺🇸 <br/>
-🧑 Meu nome é Carlos Henrique, sou estudante de Ciência da Computação na [UEPB](http://www.uepb.edu.br/). <br/>
+🧑 My name is Carlos Henrique, I'm Computer Science student in [UEPB](http://www.uepb.edu.br/). <br/>
 🕒 I'm 20 years old. <br/>
 📚 Currently studying mobile development using kotlin and native android. However I have a good knowledge of Flutter and NodeJS. <br/>
 🦊 My Goals to 2021: <br/>
@@ -18,7 +18,7 @@
 - [✘] Launch my first app on Google Play.
 
 🇧🇷  <br/>
-🧑 My name is Carlos Henrique, I'm Computer Science student in [UEPB](http://www.uepb.edu.br/). <br/>
+🧑 Meu nome é Carlos Henrique, sou estudante de Ciência da Computação na [UEPB](http://www.uepb.edu.br/). <br/>
 🕒 Tenho 20 anos de idade. <br/>
 📚 Atualmente estudo desenvolvimento mobile usuando kotlin e android nativo. Contudo tenho um bom conhecimento sobre Flutter e NodeJS. <br/>
 🦊 Meus Objetivos para 2021: <br/>
