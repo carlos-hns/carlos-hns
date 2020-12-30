@@ -5,11 +5,17 @@
 [![Gmail Badge](https://img.shields.io/badge/-carloshenriquend.santos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carloshenriquend.santos@gmail.com)](mailto:carloshenriquend.santos@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/carlosdev__/)](https://www.instagram.com/carlosdev__/)
 
-### 🇺🇸 Hi everyone 🐼🖤
+### Hi everyone | Olá a todos 🐼🖤
+
+My name is Carlos Henrique, I'm computer science student in [UEPB](http://www.uepb.edu.br/).
+
+🇺🇸 
+ 
+
 
 - Teste
 
-### 🇧🇷  Olá a todos 🐼🖤
+🇧🇷  
 
 
 My Goals:
