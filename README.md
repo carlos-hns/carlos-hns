@@ -7,15 +7,13 @@
 
 ### Hi everyone | Olá a todos 🐼🖤
 
-My name is Carlos Henrique, I'm Computer Science student in [UEPB](http://www.uepb.edu.br/).
-Meu nome é Carlos Henrique, sou estudante de Ciência da Computação na [UEPB](http://www.uepb.edu.br/).
-
 🇺🇸 
- 
-- Teste
 
+🧍‍♂️ Meu nome é Carlos Henrique, sou estudante de Ciência da Computação na [UEPB](http://www.uepb.edu.br/).
+ 
 🇧🇷  
 
+🧍‍♂️My name is Carlos Henrique, I'm Computer Science student in [UEPB](http://www.uepb.edu.br/).<br/>
 
 My Goals:
 
