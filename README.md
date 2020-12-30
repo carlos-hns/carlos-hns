@@ -24,5 +24,5 @@
 🦊 Meus Objetivos para 2021: <br/>
 
 - [✘] Conseguir meu primeiro emprego como Programador.
-- [✘] Vir a ser um desensolvedor pleno android.
+- [✘] Me tornar um desensolvedor pleno android.
 - [✘] Lançar meu primeiro aplicativo na Google Play.
