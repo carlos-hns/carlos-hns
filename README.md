@@ -13,7 +13,7 @@
 📚 Currently studying mobile development using kotlin and native android. However I have a good knowledge of Flutter and NodeJS. <br/>
 🦊 My Goals to 2021: <br/>
 
-- [✘] Get my first job as a Programmer.
+- [✔️] Get my first job as a Programmer.
 - [✘] Become to be a Junior Android Developer.
 - [✘] Launch my first app on Google Play.
 
@@ -23,6 +23,6 @@
 📚 Atualmente estudo desenvolvimento mobile usuando kotlin e android nativo. Contudo tenho um bom conhecimento sobre Flutter e NodeJS. <br/>
 🦊 Meus Objetivos para 2021: <br/>
 
-- [✘] Conseguir meu primeiro emprego como Programador.
+- [✔️] Conseguir meu primeiro emprego como Programador.
 - [✘] Me tornar um desensolvedor junior android.
 - [✘] Lançar meu primeiro aplicativo na Google Play.
