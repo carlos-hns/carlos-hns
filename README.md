@@ -14,7 +14,7 @@
 🦊 My Goals to 2021: <br/>
 
 - [✔️] Get my first job as a Programmer.
-- [✘] Become to be a Junior Android Developer.
+- [✔️] Become to be a Junior Mobile Developer.
 - [✘] Launch my first app on Google Play.
 
 🇧🇷  <br/>
@@ -24,5 +24,5 @@
 🦊 Meus Objetivos para 2021: <br/>
 
 - [✔️] Conseguir meu primeiro emprego como Programador.
-- [✘] Me tornar um desensolvedor junior android.
+- [✔️] Me tornar um desensolvedor junior mobile.
 - [✘] Lançar meu primeiro aplicativo na Google Play.
