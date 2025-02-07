@@ -15,4 +15,4 @@
 🇧🇷  <br/>
 🧑 Meu nome é Carlos Henrique, sou estudante de Ciência da Computação na [UEPB](http://www.uepb.edu.br/). <br/>
 🕒 Tenho 24 anos de idade. <br/>
-📚 Desenvolvedor Flutter com 5 anos de experiência, familiarizado com desenvolvimento mobile usando kotlin e android nativo <br/>
+📚 Desenvolvedor Flutter com 5 anos de experiência, familiarizado com desenvolvimento mobile usando kotlin e android nativo. <br/>
