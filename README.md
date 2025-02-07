@@ -9,20 +9,10 @@
 
 🇺🇸 <br/>
 🧑 My name is Carlos Henrique, I'm Computer Science student in [UEPB](http://www.uepb.edu.br/). <br/>
-🕒 I'm 20 years old. <br/>
-📚 Currently studying mobile development using kotlin and native android. However I have a good knowledge of Flutter and NodeJS. <br/>
-🦊 My Goals to 2021: <br/>
-
-- [✔️] Get my first job as a Programmer.
-- [✔️] Become to be a Junior Mobile Developer.
-- [✘] Launch my first app on Google Play.
+🕒 I'm 24 years old. <br/>
+📚 Flutter Developer with 5 years of experience, familiar with mobile development using kotlin and native android. <br/>
 
 🇧🇷  <br/>
 🧑 Meu nome é Carlos Henrique, sou estudante de Ciência da Computação na [UEPB](http://www.uepb.edu.br/). <br/>
-🕒 Tenho 20 anos de idade. <br/>
-📚 Atualmente estudo desenvolvimento mobile usuando kotlin e android nativo. Contudo tenho um bom conhecimento sobre Flutter e NodeJS. <br/>
-🦊 Meus Objetivos para 2021: <br/>
-
-- [✔️] Conseguir meu primeiro emprego como Programador.
-- [✔️] Me tornar um desensolvedor junior mobile.
-- [✘] Lançar meu primeiro aplicativo na Google Play.
+🕒 Tenho 24 anos de idade. <br/>
+📚 Desenvolvedor Flutter com 5 anos de experiência, familiarizado com desenvolvimento mobile usando kotlin e android nativo <br/>
